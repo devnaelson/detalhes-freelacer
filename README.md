@@ -1,38 +1,59 @@
-# 👨‍💻 Freelance Developer Portfolio
+# 👨‍💻 Programador 5 Anos de Experèncias Corrigindo e desenvolvendo prototipos dentro de empresas.
 
-## 💼 Skills (Full Capacity)
+## Gostaria de vivenciar experiências como freelancers e empreendimento, sejá meu cliente.
 
-### Programming Languages
-- **PHP (💯):** Expert in building robust backends and web applications.
+## 💼 Habilidates (Capacitado a 💯/resolver)
 
-### Web Technologies
-- **HTML (💯) and CSS (💯):** Proficient in creating visually appealing, responsive user interfaces.
+## Uma mãozinha entrego mais será um pouco mais lento nas entregas 👋
 
-### JavaScript and Node.js
-- **JavaScript (💯):** Strong command of vanilla JS and libraries like jQuery.
-- **Node.js (💯):** Advanced skills in building scalable server-side applications.
+### Linguagem de programação
+- **PHP (💯):**
+- **C++ (👋):**
+- **Python (👋):**
+- **Node (👋):**
+
+### Front End Tecnologias
+- **HTML (💯):**
+- **CSS (💯):**
+- **JavaScript (💯):**
+- **React (👋):**
+- **Next (👋):**
+- **Vue (👋):**
+- **Boostrap (👋):**
+- **JavaScript (💯):**
+- **Jquery (💯):**
 
 ### Frameworks
 - **Laravel (💯):** Full proficiency in developing web applications.
-- **WordPress (Themes & Plugins, 💯):** Extensive experience in customizing for unique web experiences.
+- **WordPress (💯):** NonFrameWork, mas sou bom em WordPress desenvolver themas e Plguins.
+- **Codeigniter (💯):** Experiência
 
 ### Database
 - **MySQL (💯):** Expertise in designing and optimizing relational databases.
-- **MongoDB (💯):** Proficient in handling NoSQL databases.
+- **SQLServer (👋):** Já trabalhei,mas faz alguns anos.
+- **MongoDB (👋):** Proficient in handling NoSQL databases.
 
-### Cloud Services and Containerization
-- **Azure (💯):** In-depth knowledge of cloud services for seamless deployment.
-- **Docker (💯):** Skillful in containerizing applications for efficiency.
+### Cloud Services
+- **Azure/AWS (👋):** Pouca experiência em interface, Webmaster que cuidava
 
-### Other Skills
-- **Algorithm & Data Structures (💯):** Strong understanding and implementation.
-- **Object-Oriented Programming (💯):** Proficient in designing and implementing OOP principles.
-- **Clean Code Practices (💯):** Adheres to best practices for maintainable code.
-- **Test-Driven Development (TDD, 💯):** Skilled in writing tests for robust applications.
+### Cloud Services
+- **DialogflowES (💯):**
+- **DialogflowCX (💯):**
+- **VertexAI (💯):**
+- **GoogleCloud Services (💯):**
 
-## 📞 Contact
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **Email:** your.email@example.com
+### Outras habilidades
+- **Git (💯):** Github, gitlab, bitbucket
+- **Clean Code Practices (👋):** O clean code, posso implementar no protipo que já funciona, requer tempo. 
 
-Feel free to reach out for collaboration, questions, or just to say hello! 🚀
+### Interesses
+- **LangChain (💯):** Tecnicas de NLP,NLTK,LLM, Prompts Enginners Ferramenta como langflow
+- ChatBot 
+
+## 📞 Contato
+- **LinkedIn:** [link](https://www.linkedin.com/in/devnaelson/)
+- **Email:** [link](naelson.g.saraiva@gmail.com)
+- **Whatsapp:** [Link](https://wa.me/5565981180218)
+
+- **GitHub:** [Oficial portfolio](https://github.com/devnaelson/portfolio)
+- **GitHub:** [Website portfolio](https://naelson.glitch.me/)
