@@ -45,7 +45,7 @@
 
 #### Outras habilidades
 - **Git (💯):** Github, gitlab, bitbucket
-- **Clean Code Practices (👋):** O clean code, posso implementar tem uma lista no github, dificil aprender todos. 
+- **Clean Code Practices (👋):** O clean code, posso implementar, existe uma lista no github, dificil aprender todos. 
 
 #### Interesses
 - **LangChain (💯):** Tecnicas de NLP,NLTK,LLM, Prompts Enginners Ferramenta como langflow
