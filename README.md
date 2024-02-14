@@ -1,4 +1,4 @@
-## 👨‍💻 Desenvolvedor com 5 anos de experiência, especializado em aprimorar sistemas e criar protótipos inovadores para empresas.
+### 👨‍💻 Desenvolvedor com 5 anos de experiência, especializado em aprimorar sistemas e criar protótipos inovadores para empresas.
 
 #### Busco experiências empolgantes como freelancer e empreendedor. Que tal ser meu cliente nesta jornada? Leia sobre mim!
 
