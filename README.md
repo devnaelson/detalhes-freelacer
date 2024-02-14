@@ -1,6 +1,6 @@
-# 👨‍💻 Programador 5 Anos de Experèncias Corrigindo e desenvolvendo prototipos dentro de empresas.
+# 👨‍💻 Desenvolvedor com 5 anos de experiência, especializado em aprimorar sistemas e criar protótipos inovadores para empresas.
 
-## Gostaria de vivenciar experiências como freelancers e empreendimento, sejá meu cliente.
+## Busco experiências empolgantes como freelancer e empreendedor. Que tal ser meu cliente nesta jornada? Leia sobre mim!
 
 ## 💼 Habilidates (Capacitado a 💯/resolver)
 
