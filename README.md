@@ -58,3 +58,5 @@
 
 - **GitHub:** [Oficial portfolio](https://github.com/devnaelson/portfolio)
 - **GitHub:** [Website portfolio](https://naelson.glitch.me/)
+
+- Caso você leu e queira me dar um feedback, pow cara, será muito bom, me envia um email? Valeu!
