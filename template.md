@@ -1,4 +1,4 @@
-#### Olá você empreendedor e investidor, ta em desespero, quer jogar pra mim resolver?
+#### Olá você empreendedor e investidor, quer jogar pra mim resolver?
 
 #### Oferecidos Serviços:
 - [+] Escopo Web e próximos. 
