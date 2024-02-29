@@ -35,7 +35,7 @@
 - **MongoDB (👋):** Proficient in handling NoSQL databases.
 
 #### Cloud Services
-- **Azure/AWS (👋):** Pouca experiência em interface, Webmaster que cuidava
+- **Azure/AWS (👋):** Pouca experiência no gerenciamento por interface.
 
 #### Cloud Services
 - **DialogflowES (💯):**
@@ -45,7 +45,7 @@
 
 #### Outras habilidades
 - **Git (💯):** Github, gitlab, bitbucket
-- **Clean Code Practices (👋):** O clean code, posso implementar, existe uma lista no github, dificil aprender todos. 
+- **Clean Code Practices (👋):** O clean code, posso implementar, existe uma lista no github, requer tempo, ta disposto?
 
 #### Interesses
 - **LangChain (💯):** Tecnicas de NLP,NLTK,LLM, Prompts Enginners Ferramenta como langflow
@@ -59,4 +59,4 @@
 - **GitHub:** [Oficial portfolio](https://github.com/devnaelson/portfolio)
 - **GitHub:** [Website portfolio](https://naelson.glitch.me/)
 
-- Caso você leu e queira me dar um feedback, pow cara, será muito bom, me envia um email? Valeu!
+- Caso você leu e queira me dar um feedback, cara, será muito bom, me envia um email? Valeu!
