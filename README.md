@@ -57,6 +57,6 @@
 - **Whatsapp:** [Link](https://wa.me/5565981180218)
 
 - **GitHub:** [Oficial portfolio](https://github.com/devnaelson/portfolio)
-- **GitHub:** [Website portfolio](https://naelson.glitch.me/)
+- **Web:** [Website portfolio](https://naelson.glitch.me/)
 
 - Caso você leu e queira me dar um feedback, cara, será muito bom, me envia um email? Valeu!
