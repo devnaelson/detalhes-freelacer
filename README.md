@@ -4,9 +4,6 @@
 
 #### 💼 Habilidates (Capacitado a 💯/resolver)
 
-#### Uma mãozinha significa que entrego mais será um pouco mais lento nas entregas 👋 me adapto fácil por ter bons funcamentos e lógica. 
-#### Caso quereia 10 ou + referências minhas, sobre proposta de trabalho fixo, preciso comprovação de não especulador, a regra é assim só passo referência caso já estamos familiarizado algo que comprova que não é um espertinho 😏
-
 #### Linguagem de programação
 - **PHP (💯):**
 - **C++ (👋):**
